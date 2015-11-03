@@ -1,4 +1,5 @@
 this is a demo site
+this is an extra line of text
 
 CONTENTS OF THIS FILE
 ---------------------
